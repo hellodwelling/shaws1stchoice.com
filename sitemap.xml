@@ -5,77 +5,77 @@
 
     <url>
         <loc>https://shaws1stchoice.com/index</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/store</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/reviews</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/gallery-All</loc>
-        <lastmod>2022-05-24</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://shaws1stchoice.com/gallery-Roof-Repair</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/gallery-Roof-Installation</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://shaws1stchoice.com/gallery-Roof-Repair</loc>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/service-Roof-Installation</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/service-Roof-Repair</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/service-Gutter-Repair</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/service-Roof-Inspections</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://shaws1stchoice.com/service-Other-Roofing-Services</loc>
-        <lastmod>2022-05-24</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
